@@ -31,14 +31,14 @@
 
 - [x] **PostgreSQL** - 
   - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
+*Review the PostgreSQL Script:* **[HERE](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
+*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1eWC17BNaBf7qhwWkPYp943op3A4Ah0pj/view?usp=sharing)**<br />
 
 
 
 - [x] **Python** - 
   - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/blob/main/Python%20-%20Movie%20Industry%20EDA%20Project.ipynb)**<br />
 
 
 
