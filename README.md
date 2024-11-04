@@ -32,7 +32,7 @@
 - [x] **PostgreSQL** - 
   - Business Intelligence Challenge <br />
 *Review the PostgreSQL Script:* **[HERE](https://github.com/ShubhangiLokhande123/Data_Analyst_Portfolio_Repo/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1eWC17BNaBf7qhwWkPYp943op3A4Ah0pj/view?usp=sharing)**<br />
+*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1eZyKuYe_zRkPSgiah4p2kmScVkQGNxbL/view?usp=sharing)**<br />
 
 
 
