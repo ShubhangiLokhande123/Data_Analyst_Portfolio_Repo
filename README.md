@@ -62,7 +62,7 @@
 
 
 - [x] **Tableau** - 
-- World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+- World Bank CO2 Emissions Dashboard: https://public.tableau.com/app/profile/shubhangi.lokhande8740/viz/WorldBankCo2Emissions_17308030091060/Dashboard1
 
 ![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
 
