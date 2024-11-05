@@ -3,6 +3,25 @@
 #### *You can also take a look at my Linkedin : [Shubhangi Lokhande](https://www.linkedin.com/in/shubhangilokhande229/)* <br />
 
 
+- [x] **MIcrosoft PowerBI** - 
+  - Blinkit PowerBI Dashboard<br />
+*Review the Blinkit PowerBI Dashboard:* **[HERE](https://github.com/ShubhangiLokhande123/Blinkit_PowerBI_Dashboard)**<br />
+
+![Blinkit PowerBI Dashboard](visuals/blinkit.png)
+
+
+
+  - Air pollution Spatio temporal Analytical Dashboard<br />
+*Review the Air pollution Spatio temporal Analytical Dashboard:* **[HERE](https://github.com/ShubhangiLokhande123/Air-pollution-Spatio-temporal-Analytical-Dashboard)**<br />
+
+![Air pollution Spatio temporal Analytical Dashboard](visuals/air.png)
+
+
+
+ - Loan Status Dashboard<br />
+*Review the Loan Status Dashboard:* **[HERE](https://github.com/ShubhangiLokhande123/Loan-Status-Dashboard)**<br />
+
+![Loan Status Dashboard](visuals/loan.png)
 
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
@@ -43,56 +62,6 @@
 
 
 - [x] **Tableau** - 
-
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
-
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
-
-![MakeoverMonday](visuals/WorkFromHome.png)  
-
-- Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
-
-![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
-
-- GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
-
-![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
-
-
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
-
-![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
-
-
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
-
-![E-commerce Sales](visuals/E-commerceRetail.png)
-
-
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
-      
-      1 KPI Dashboard
-
-![KPI Dashboard](visuals/KPIDashboard.png)
-
-      2 Top-Down Dashboard
-      
-![Top Down Dashboard](visuals/TopDownDashboard.png)
-
-      3 Q&A Dashboard
-      
-![Q&A Dashboard](visuals/Q&ADashboard.png)
-
-      4 Bottom-Up Dashboard
-      
-![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
-
-      5 Geo Chart
-      
-![Geo Chart](visuals/GeoChart.png)
-
-
-
 - World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
 
 ![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
