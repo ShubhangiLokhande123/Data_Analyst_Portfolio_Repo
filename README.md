@@ -39,7 +39,11 @@
 
 
 
-- [x] **SQL** - 
+- [x] **SQL** -
+
+  - Netflix Movies and TV Shows Data Analysis using SQL <br />
+*Review the SQL Script:* **[HERE](https://github.com/ShubhangiLokhande123/NETFLIX_Data_Analysis_in_SQL/blob/main/README.md)**<br />
+
   - Nashville Housing Dataset: Data Cleaning <br />
 *Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
