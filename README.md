@@ -67,7 +67,7 @@
 ![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
 
 
-- London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link 
+- London Bus Safety Dashboard: https://public.tableau.com/app/profile/shubhangi.lokhande8740/viz/LondonBusSafety_17308033064050/ChartsDashboard
 
 ![London Bus Safety](visuals/LondonBusSafety.png)
 
