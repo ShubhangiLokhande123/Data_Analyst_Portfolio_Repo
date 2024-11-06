@@ -84,7 +84,7 @@
 
 - Sales Superstore Sample: Sales Performance Dashboard <br />
 
-![Dashboard](visuals/excel/Dashboards.png)
+![Dashboard](visuals/excel/Screenshot%202024-11-06%20190401.png)
 
 
 - NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
