@@ -84,27 +84,27 @@
 
 - Sales Superstore Sample: Sales Performance Dashboard <br />
 
-![Dashboard](visuals/excel/Screenshot%202024-11-06%20190401.png)
+![Dashboard](visuals/excel/D.png)
 
 
 - NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
 
-![Dashboard](visuals/excel/INDEX.png)
+![Dashboard](visuals/excel/L.png)
 
-![Dashboard](visuals/excel/LOOKUP.png)
+![Dashboard](visuals/excel/L1.png)
 
 
 - Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
 
-![Dashboard](visuals/excel/PivotReports.png)
+![Dashboard](visuals/excel/P.png)
 
 
 - Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
 
-![Dashboard](visuals/excel/DataModeling.png)
+![Dashboard](visuals/excel/DM.png)
 
-![Dashboard](visuals/excel/Solver.png)
+![Dashboard](visuals/excel/summry.png)
 
-![Dashboard](visuals/excel/ScenarioManager.png)
+![Dashboard](visuals/excel/summery.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
